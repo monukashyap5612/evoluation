@@ -7,8 +7,8 @@ export const AuthProvider = ({ children }) => {
   
  
   const users = [
-    { email: 'alice@example.com', password: 'alice123' },
-    { email: 'bob@example.com', password: 'bob123' }
+    { email: 'meen@example.com', password: 'meen123' },
+    { email: 'deep@example.com', password: 'deep123' }
   ];
 
   const login = (email, password) => {
